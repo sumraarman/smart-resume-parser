@@ -1,0 +1,93 @@
+{
+    "name": "John Doe",
+    "email": "john.doe@email.com",
+    "phone": "+1 (555) 234-5678",
+    "address": "San Francisco, Node.js, Flask",
+    "linkedin": "https://linkedin.com/in/johndoe-dev",
+    "github": "https://github.com/johndoe-dev",
+    "portfolio": "email.com",
+    "skills": [
+        "AWS",
+        "C++",
+        "CI/CD",
+        "Django",
+        "Docker",
+        "FastAPI",
+        "Flask",
+        "Git",
+        "GitHub",
+        "Java",
+        "JavaScript",
+        "Kubernetes",
+        "Linux",
+        "MongoDB",
+        "MySQL",
+        "Node.js",
+        "PostgreSQL",
+        "Python",
+        "REST API",
+        "React",
+        "Redis",
+        "SQL",
+        "Spring Boot",
+        "TypeScript"
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Technology",
+            "institution": "Bachelor of Technology in Computer Science University of California",
+            "branch": "",
+            "year": "2018",
+            "score": "CGPA: 3.8 / 4"
+        }
+    ],
+    "experience": [
+        {
+            "company": "TechCorp Inc.",
+            "title": "Senior Software Engineer | TechCorp Inc.",
+            "duration": "",
+            "responsibilities": []
+        },
+        {
+            "company": "",
+            "title": "Software Professional",
+            "duration": "Jan 2021 - Present",
+            "responsibilities": []
+        },
+        {
+            "company": "",
+            "title": "Architected microservices REST API backend serving over 2 million daily active users using Python, Flask, and PostgreSQ",
+            "duration": "",
+            "responsibilities": [
+                "Reduced database query latency by 40% through Redis caching and query indexing optimization.",
+                "Led continuous integration and automated deployment pipelines using Docker, Kubernetes, and AWS EKS."
+            ]
+        },
+        {
+            "company": "Software",
+            "title": "Software Engineer | DevSolutions LLC",
+            "duration": "",
+            "responsibilities": []
+        },
+        {
+            "company": "",
+            "title": "Software Professional",
+            "duration": "Jun 2018 - Dec 2020",
+            "responsibilities": [
+                "Built full-stack dynamic dashboards using React, Redux, and Node.js.",
+                "Implemented secure JWT authentication and role-based access control."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Smart E-Commerce Microservices",
+            "technologies": "",
+            "description": "Technologies Used: Python, FastAPI, Docker, PostgreSQL, React Developed an asynchronous order processing pipeline using RabbitMQ and Redis."
+        }
+    ],
+    "certifications": [
+        "AWS Certified Solutions Architect - Associate",
+        "Docker Certified Associate"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "Emily Davis",
+    "email": "emily.davis@webdesign.com",
+    "phone": "+1 (312) 555-0199",
+    "address": "Chicago, React",
+    "linkedin": "https://linkedin.com/in/emilydavis-ui",
+    "github": "https://github.com/emilydavis-fe",
+    "portfolio": "webdesign.com",
+    "skills": [
+        "Angular",
+        "Bootstrap",
+        "CSS",
+        "CSS3",
+        "Git",
+        "GitHub",
+        "HTML",
+        "HTML5",
+        "JSON",
+        "JavaScript",
+        "REST API",
+        "React",
+        "Tailwind CSS",
+        "TypeScript",
+        "Vue.js"
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Computer Applications",
+            "institution": "",
+            "branch": "",
+            "year": "2021",
+            "score": ""
+        }
+    ],
+    "experience": [
+        {
+            "company": "WebStudio Agency",
+            "title": "Frontend Developer | WebStudio Agency",
+            "duration": "",
+            "responsibilities": []
+        },
+        {
+            "company": "",
+            "title": "Software Professional",
+            "duration": "Aug 2021 - Present",
+            "responsibilities": [
+                "Designed and delivered responsive user interfaces for over 15 client enterprise web applications using React and Tailwind",
+                "Optimized web accessibility and cross-browser performance."
+            ]
+        }
+    ],
+    "projects": [],
+    "certifications": [
+        "Meta Frontend Developer Professional Certificate"
+    ]
+}

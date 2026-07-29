@@ -1,0 +1,85 @@
+{
+    "name": "Alice Smith",
+    "email": "alice.smith@datascience.io",
+    "phone": "+91 9876543210",
+    "address": "India, NumPy, SQL",
+    "linkedin": "https://linkedin.com/in/alicesmith-data",
+    "github": "https://github.com/alicesmith-ds",
+    "portfolio": "datascience.io",
+    "skills": [
+        "AWS",
+        "Computer Vision",
+        "Data Science",
+        "Deep Learning",
+        "Docker",
+        "Excel",
+        "Git",
+        "GitHub",
+        "Machine Learning",
+        "Matplotlib",
+        "NLP",
+        "NLTK",
+        "Natural Language Processing",
+        "NumPy",
+        "Pandas",
+        "PostgreSQL",
+        "Power BI",
+        "PyTorch",
+        "Python",
+        "R",
+        "SQL",
+        "Scikit-Learn",
+        "Tableau",
+        "TensorFlow",
+        "spaCy"
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "Master of Science in Data Science Indian Institute of Technology",
+            "branch": "",
+            "year": "2019",
+            "score": "CGPA: 9.2 / 10"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Lead Data Scientist",
+            "title": "Lead Data Scientist | DataMind AI",
+            "duration": "",
+            "responsibilities": []
+        },
+        {
+            "company": "",
+            "title": "Software Professional",
+            "duration": "Feb 2022 - Present",
+            "responsibilities": [
+                "Developed BERT-based NLP sentiment analysis models achieving 94% accuracy on customer feedback data.",
+                "Built predictive churn forecasting models with XGBoost and Scikit-Learn."
+            ]
+        },
+        {
+            "company": "Analytics Corp",
+            "title": "Data Analyst | Analytics Corp",
+            "duration": "",
+            "responsibilities": []
+        },
+        {
+            "company": "",
+            "title": "Software Professional",
+            "duration": "Jul 2019 - Jan 2022",
+            "responsibilities": [
+                "Created interactive executive dashboards in Power BI and Tableau.",
+                "Executed SQL queries and data cleaning pipelines in Pandas and NumPy."
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Resume Entity Extraction NLP Engine",
+            "technologies": "",
+            "description": "Technologies Used: Python, spaCy, NLTK, Streamlit, Pandas Built a Named Entity Recognition engine for parsing resume text."
+        }
+    ],
+    "certifications": []
+}

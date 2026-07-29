@@ -1,0 +1,59 @@
+{
+    "name": "Michael Brown",
+    "email": "michael.brown@fullstack.dev",
+    "phone": "+44 20 7946 0912",
+    "address": "London, UK, Python",
+    "linkedin": "https://linkedin.com/in/mbrown-fullstack",
+    "github": "https://github.com/mbrown-dev",
+    "portfolio": "fullstack.dev",
+    "skills": [
+        ".NET",
+        "AWS",
+        "Angular",
+        "C#",
+        "Django",
+        "Docker",
+        "Flask",
+        "Git",
+        "GitHub",
+        "GraphQL",
+        "Java",
+        "JavaScript",
+        "MongoDB",
+        "MySQL",
+        "Node.js",
+        "PostgreSQL",
+        "Python",
+        "REST API",
+        "React",
+        "SQL",
+        "SQLite"
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "Master of Science in Software Engineering Imperial College London",
+            "branch": "",
+            "year": "2019",
+            "score": ""
+        }
+    ],
+    "experience": [
+        {
+            "company": "GlobalTech Systems",
+            "title": "Fullstack Software Engineer | GlobalTech Systems",
+            "duration": "Jan 2020 - Present",
+            "responsibilities": []
+        },
+        {
+            "company": "",
+            "title": "• Engineered end-to-end web applications combining Django REST Framework backends with React single-page frontends.",
+            "duration": "",
+            "responsibilities": [
+                "Designed relational databases in PostgreSQL and MySQL with optimized queries."
+            ]
+        }
+    ],
+    "projects": [],
+    "certifications": []
+}

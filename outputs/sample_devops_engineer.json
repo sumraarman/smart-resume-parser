@@ -1,0 +1,55 @@
+{
+    "name": "Robert Johnson",
+    "email": "robert.j@cloudops.com",
+    "phone": "+1 415-999-8888",
+    "address": "Kubernetes, Bash, Helm",
+    "linkedin": "https://linkedin.com/in/robert-johnson-devops",
+    "github": "https://github.com/rjohnson-ops",
+    "portfolio": "cloudops.com",
+    "skills": [
+        "AWS",
+        "Ansible",
+        "Azure",
+        "Bash",
+        "CI/CD",
+        "Docker",
+        "Elasticsearch",
+        "GCP",
+        "Git",
+        "GitHub",
+        "Go",
+        "Google Cloud",
+        "Jenkins",
+        "Kubernetes",
+        "Linux",
+        "PowerShell",
+        "Python",
+        "Shell",
+        "Terraform"
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering",
+            "institution": "Bachelor of Engineering in Information Technology Texas A&M University",
+            "branch": "",
+            "year": "2019",
+            "score": "GPA: 3.7"
+        }
+    ],
+    "experience": [
+        {
+            "company": "DevOps Engineer",
+            "title": "DevOps Engineer | CloudNative Corp",
+            "duration": "Mar 2020 - Present",
+            "responsibilities": [
+                "Managed multi-region Kubernetes clusters on AWS EKS using Terraform and Helm.",
+                "Built automated CI/CD pipelines in Jenkins reducing build times by 50%."
+            ]
+        }
+    ],
+    "projects": [],
+    "certifications": [
+        "Certified Kubernetes Administrator (CKA)",
+        "AWS Certified DevOps Engineer - Professional"
+    ]
+}
