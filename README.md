@@ -57,8 +57,6 @@ Smart_Resume_Parser/
 ├── utils.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-├── LICENSE
 │
 ├── sample_resumes/
 │   ├── Resume_Arjun_Sharma.pdf
